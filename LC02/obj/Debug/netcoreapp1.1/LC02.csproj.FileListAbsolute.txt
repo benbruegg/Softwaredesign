@@ -1,8 +1,0 @@
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\bin\Debug\netcoreapp1.1\LC02.deps.json
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\bin\Debug\netcoreapp1.1\LC02.runtimeconfig.json
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\bin\Debug\netcoreapp1.1\LC02.runtimeconfig.dev.json
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\bin\Debug\netcoreapp1.1\LC02.dll
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\bin\Debug\netcoreapp1.1\LC02.pdb
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\obj\Debug\netcoreapp1.1\LC02.AssemblyInfo.cs
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\obj\Debug\netcoreapp1.1\LC02.dll
-C:\Users\Ben\Documents\GitHub\Softwaredesign\LC02\obj\Debug\netcoreapp1.1\LC02.pdb
